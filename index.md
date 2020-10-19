@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+FORM 1
+<form action="https://www.pinkoi.com/browse" method="get">
+<input type="text" name="category">
+<input type="submit" value="ok">
+</form>
 
-You can use the [editor on GitHub](https://github.com/U0958008/Form/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+FORM 2
+<form action="https://www.pinkoi.com/browse" method="get">
+<select name="category">
+<option value="2">配件飾品</option>
+<option value="5">居家生活</option>
+<option value="1" selected>包包提袋</option>
+<option value="0">衣著良品</option>
+<option value="3">文具卡片</option>
+</select>
+<input type="submit" value="ok">
+</form>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+FORM 3
+<form action="https://www.pinkoi.com/search" method="get">
+<input type="text" name="q">
+<input type="submit" value="ok">
+</form>
 
-### Markdown
+FORM 4 HTML5
+<p>電話: <input type="tel" name="tel"></p>
+<p>日期: <input type="date" name="date"></p>
+<p>時間: <input type="time" name="time"></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+HTML5 電話/日期/時間
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/U0958008/Form/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
